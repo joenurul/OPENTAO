@@ -1,7 +1,7 @@
 # Script Installation
 # OpenVPN, Pritunl, Proxy, SHH+Dropbear, Web Panel
 
-- wget -O /usr/local/bin/install "https://raw.githubusercontent.com/nwqionm/OPENEXTRA/master/Install.sh"
+- wget -O /usr/local/bin/install "https://raw.githubusercontent.com/taohumyai/OPENTAO/master/Install.sh"
 - chmod +x /usr/local/bin/install
 
 # หลังจากอัพโหลดสคริปท์ลงเซิฟเวอร์เสร็จเรียบร้อย
