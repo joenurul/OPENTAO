@@ -30,7 +30,7 @@ echo -e "|${RED}7${NC}| SPEEDTEST"
 echo -e "|${RED}8${NC}| "
 echo -e "|${RED}9${NC}| "
 echo ""
-echo -e "|${RED}0${NC}| UPDATE MENU SCRIPT"
+echo -e "|${RED}0${NC}| "
 echo ""
 if [[ -e /etc/vnstat.conf ]]; then
 	TODAY=$(vnstat -i eth0 | grep "today" | awk '{print $8" "substr ($9, 1, 1)}')
